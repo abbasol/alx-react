@@ -20,4 +20,4 @@ export default function printBestStudents(object) {
   return OurObject[key];
   });
   console.log(OurObject);
-}
+  }
